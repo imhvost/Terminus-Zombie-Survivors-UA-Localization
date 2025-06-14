@@ -1,6 +1,6 @@
 # 🇺🇦 Terminus: Zombie Survivors — Українська локалізація
 
-Це машинний переклад з частковою вичіткою гри [**Terminus: Zombie Survivors**](https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/) українською мовою.
+Це машинний переклад з частковою вичитка гри [**Terminus: Zombie Survivors**](https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/) українською мовою.
 
 ## 📥 Встановлення
 
